@@ -1,0 +1,18 @@
+[INFO] 01 十二月 11:42:52.100 上午 main [com.wjb.test.Testlog4j]
+this is info message!!
+
+[ERROR] 01 十二月 11:42:52.109 上午 main [com.wjb.test.Testlog4j]
+this is error message!
+
+[INFO] 21 十二月 06:48:03.608 下午 main [com.wjb.testlog4j.Testlog4j]
+this is info message!!
+
+[ERROR] 21 十二月 06:48:03.624 下午 main [com.wjb.testlog4j.Testlog4j]
+this is error message!
+
+[INFO] 21 十二月 06:49:00.085 下午 main [com.wjb.testlog4j.Testlog4j]
+this is info message!!
+
+[ERROR] 21 十二月 06:49:00.085 下午 main [com.wjb.testlog4j.Testlog4j]
+this is error message!
+
